@@ -1,0 +1,115 @@
+/* html */
+.center_word{
+  font-weight: bold;
+  text-align : center;
+  color : #453246;
+}
+
+.word{
+  border: 5px solid #E3E4E0;
+  border-radius: 10px;
+  align : center;
+  width : 73.5%;
+  background-color : #E3E4E0;
+}
+
+.left_word{
+  font-size: 22.5px;
+  font-weight: bold;
+  text-align : left;
+  color : #453246;
+  width : 75%;
+}
+
+.left__word{
+  font-size: 15px;
+  font-weight: bold;
+  text-align : left;
+  color : #453246;
+  width : 75%;
+}
+
+.null{
+  background : #000000;
+  opacity : 0;
+}
+
+/* js */
+.svg{
+  height : 520px;
+  width : 1045px;
+  background-color : #EAE6DF;
+}
+
+.axis{
+  font-size : 16px;
+  font-family : times;
+  font-weight: normal;
+  color : #453246;
+  fill : #453246;
+}
+
+.axis_tag{
+  font-size : 20px;
+  font-family : times;
+  font-weight: normal;
+  text-align : middle;
+  fill : #453246;
+}
+
+.tag{
+  font-size : 16px;
+  font-family : times;
+  font-weight: normal;
+  text-align : left;
+  fill : #453246;
+}
+
+.allbar{
+  width : 15px;
+  fill : #FFD05B;
+}
+
+.all_tag_color{
+  height : 15px;
+  width : 15px;
+  fill : #FFD05B;
+}
+
+.goodbar{
+  width : 15px;
+  fill : #B04D5D;
+}
+
+.good_tag_color{
+  height : 15px;
+  width : 15px;
+  fill : #B04D5D;
+}
+
+.wolfbar{
+  width : 15px;
+  fill : #F86254;
+}
+
+.wolf_tag_color{
+  height : 15px;
+  width : 15px;
+  fill : #F86254;
+}
+
+.tooltip {
+  position: absolute;
+  font-size : 15px;
+  font-family : times;
+  font-weight: bold;
+  text-align : left;
+  color : #453246;
+  background: #B0A99F;
+  width: 155px;
+  height: 85px;
+  padding: 10px;
+  border: 0px;
+  border-radius: 8px;
+  pointer-events: none;
+}
